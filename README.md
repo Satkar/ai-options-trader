@@ -1,3 +1,0 @@
-# AI Options Trading Bot
-
-Full deployment guide...
