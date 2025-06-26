@@ -1,4 +1,5 @@
 # settings for Django with MongoDBimport os
+import os
 from pathlib import Path
 from dotenv import load_dotenv
 from mongoengine import connect
