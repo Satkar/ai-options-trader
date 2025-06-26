@@ -1,1 +1,1 @@
-# Supertrend logic
+def calculate_supertrend(data): return [True] * len(data)

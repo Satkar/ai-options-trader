@@ -1,5 +1,6 @@
-Django>=4.2
+Django
 djangorestframework
-pymongo
-django-cors-headers
+mongoengine
 python-telegram-bot
+pandas
+numpy

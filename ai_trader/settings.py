@@ -1,1 +1,1 @@
-# Django settings for AI options trader
+# settings for Django with MongoDB

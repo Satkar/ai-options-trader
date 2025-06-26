@@ -1,4 +1,4 @@
-# AI Options Trading Bot
+# AI Options Trader
 
-## Deployment
-Follow Render guide using `render.yaml`...
+Deploy on Render using render.yaml
+Login: `satkar` / `Test@1234`

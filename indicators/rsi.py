@@ -1,1 +1,1 @@
-# RSI indicator logic
+def calculate_rsi(data): return 50  # dummy logic

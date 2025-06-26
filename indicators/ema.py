@@ -1,1 +1,1 @@
-# EMA indicator logic
+def calculate_ema(data, period): return [sum(data)/len(data)] * len(data)

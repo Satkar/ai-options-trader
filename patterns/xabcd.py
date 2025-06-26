@@ -1,1 +1,1 @@
-# Harmonic pattern recognition logic (XABCD, Butterfly, Crab)
+def detect_pattern(data): return {'type': 'Butterfly', 'target': 100, 'stoploss': 50}

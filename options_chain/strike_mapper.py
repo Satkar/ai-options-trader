@@ -1,1 +1,1 @@
-# Logic to map index to correct option strike
+def map_strike(price): return round(price / 100) * 100
